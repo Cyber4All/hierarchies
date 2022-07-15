@@ -1,4 +1,5 @@
 CyberSkills2Work - Data Analyst AI/ML (WIP)
+```
 |─── AI Learning Path Outline.docx
 |─── StartingAnacondaAndJupyterNotebooks.docx
 |─── CyberSkills2Work_AIIntro_Environment.ppt
@@ -30,3 +31,4 @@ CyberSkills2Work - Data Analyst AI/ML (WIP)
 |     |─── X
 |           └── X
 |               └── X
+```
