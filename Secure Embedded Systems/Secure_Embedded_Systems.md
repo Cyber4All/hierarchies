@@ -4,12 +4,12 @@ Secure Embedded Systems Learning Object (Unit)
 |─── 01.SecureEmbeddedSystemModuleOverview.docx
 |─── 0ReadMeFirst - Secure Embedded Systems.pdf
 |
-|─── Lab 1: IPTables Introduction
+|─── Lab 1: IPTables Introduction (Micromodule)
 |     |─── Lab1_NetworkConfiguration_LabManual.docx
 |     |─── Lab1_NetworkConfiguration_LabSolutions.docx
 |     |─── Lab1_NetworkConfiguration_Presentation.pptx
 |
-|─── Lab 2: Server Communication
+|─── Lab 2: Server Communication (Micromodule)
 |     |─── Lab2_ServerCommunication_LabManual.docx
 |     |─── Lab2_ServerCommunication_LabSolutions.docx
 |     |─── Lab2_ServerCommunication_Presentation.pptx
@@ -18,7 +18,7 @@ Secure Embedded Systems Learning Object (Unit)
 |     |     └── Lab1.py.txt
 |     |     └── temp-script.py.txt
 |
-|─── Lab 3: Random Number Generation
+|─── Lab 3: Random Number Generation (Micromodule)
 |     |─── Lab3_RandomNumberGeneration_LabManual.docx
 |     |─── Lab3_RandomNumberGeneration_LabSolutions.docx
 |     |─── Lab3_RandomNumberGeneration_Presentation.pptx
@@ -37,7 +37,7 @@ Secure Embedded Systems Learning Object (Unit)
 |     |     |─── .matplotlib (Folder)
 |     |          └── fontList.py3k.cache
 |   
-|─── Lab 4: Dictionary Attack
+|─── Lab 4: Dictionary Attack (Micromodule)
 |     |─── Lab4_DictionaryAttack_LabManual.docx
 |     |─── Lab4_DictionaryAttack_LabSolutions.docx
 |     |─── Lab4_DictionaryAttack_Presentation.pptx
@@ -45,7 +45,7 @@ Secure Embedded Systems Learning Object (Unit)
 |     |     └── dictionaryssh.py
 |     |     └── password_list.txt
 |   
-|─── Lab 5: Dictionary Attack - Fail2ban
+|─── Lab 5: Dictionary Attack - Fail2ban (Micromodule)
 |     |─── Lab5_DictionaryAttack-Fail2Ban_LabManual.docx
 |     |─── Lab5_DictionaryAttack-Fail2Ban_LabSolutions.docx
 |     |─── Lab5_DictionaryAttack-Fail2Ban_Presentation.pptx
@@ -53,7 +53,7 @@ Secure Embedded Systems Learning Object (Unit)
 |     |     └── dictionaryssh.py
 |     |     └── password_list.txt
 |   
-|─── Lab 6: SQL Injection
+|─── Lab 6: SQL Injection (Micromodule)
 |     |─── Lab6_SQLInjection_LabManual.docx
 |     |─── Lab6_SQLInjection_LabSolutions.docx
 |     |─── Lab6_SQLInjection_LabSolutions.pptx
