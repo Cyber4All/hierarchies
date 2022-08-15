@@ -57,8 +57,6 @@ Secure Embedded Systems Learning Object (Unit)
 |     |─── Lab6_SQLInjection_LabManual.docx
 |     |─── Lab6_SQLInjection_LabSolutions.docx
 |     |─── Lab6_SQLInjection_LabSolutions.pptx
-|     |─── Lab6_SQLInjection_DataFiles (Folder) (MISSING FOLDER)
-|     |     └── (MISSING FILES)
 |   
 ```
 
