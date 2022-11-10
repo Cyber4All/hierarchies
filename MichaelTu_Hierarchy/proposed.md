@@ -71,10 +71,10 @@ GUI Based Self-Learning Tool for Secure Java Programming (Course)
 |     |     └── Java restore prior object state code examples (Nanomodule)
 |
 |─── Secure Java Input and Programming Basics (Unit)
-|     |─── Securing Java Programming Input (Micromodule)
-|     |─── Secure Expression (Micromodule)
-|     |─── Secure Declaration and Initialization  (Micromodule)
-|     |─── Secure Numeric Types and Operations (Micromodule)
+|     |─── Securing Java Programming Input (Module)
+|     |─── Secure Expression (Module)
+|     |─── Secure Declaration and Initialization  (Module)
+|     |─── Secure Numeric Types and Operations (Module)
 |
 ```
 
