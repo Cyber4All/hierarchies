@@ -1,0 +1,70 @@
+Overview of Penetration Testing and Cyber Operations Hierarchy Structure
+
+```
+Penetration Testing and Cyber Operations (Course)
+|─── Cyber Operations Syllabus.docx
+|─── Cyber Operations Weekly Schedule.xlsx
+|─── Final Exam.docx
+|
+|─── Intro to Ethical Hacking - Unit 01 (Module)
+|     |─── 01 Intro to Ethical Hacking.pptx
+|
+|─── Organizing and Managing the Operation - Unit 02 (Module)
+|     |─── 02 Organizing and Managing the Operation.pptx
+|     |─── Lab 01 - Kali and Notes.docx
+|
+|─── Cyber Kill Chain - Unit 03 (Module)
+|     |─── 03 Cyber Kill Chain.pptx
+|   
+|─── Information Gathering - Unit 04 (Module)
+|     |─── 04 Information Gathering.pptx
+|     |─── Lab 02 - OSINT Tools.docx
+|   
+|─── Intro to Scanning - Unit 05 (Module)
+|     |─── 05 Basic Nmap Example.mp4
+|     |─── 05 Basic Scanning With nmap.pptx
+|     |─── 05 Intro to Scanning.pptx
+|     |─── Lab 03 - Wordlists and Footprinting.docx
+|   
+|─── Advanced Scanning - Unit 06 (Module)
+|     |─── 06 Advanced Nmap Example.mp4
+|     |─── 06 Advanced Scanning.pptx
+|     |─── Lab 04 - Nmap.docx
+|   
+|─── Vulnerability Scanning - Unit 07 (Module)
+|     |─── 07 Nessus Example.mp4
+|     |─── 07 OpenVAS Example.mp4
+|     |─── 07 OpenVAS.pptx
+|     |─── 07 Vulnerability Scanning.pptx
+|     |─── Lab 05 - Port Scanning and Nessus.docx
+|   
+|─── Metasploit and Armitage - Unit 08 (Module)
+|     |─── 08 Armitage Example.mp4
+|     |─── 08 Armitage.pptx
+|     |─── 08 Metasploit Example.mp4
+|     |─── 08 Metasploit.pptx
+|     |─── Lab 06 - Metasploit and Vulnerabilities.docx
+|     
+|─── Password Auditing - Unit 09 (Module)
+|     |─── 09 Password Auditing.pptx
+|     |─── 09 Rainbow Table Example.mp4
+|     |─── 09 Rainbow Tables and GPU.pptx
+|     |─── 09 Wordlists.pptx
+|     |─── Lab 08 - Rainbow Tables.docx
+|     |─── Lab 07 - Offline Password Cracking (Folder)
+|     |     └── Lab 07 - Offline Password Attacks.docx
+|     |     └── passwd.txt
+|     |     └── sam.txt
+|     |     └── shadow.txt
+|     |     └── Solution.txt
+|   
+|─── Meterpreter - Unit 10 (Module)
+|     |─── 10 Meterpreter Example.mp4
+|     |─── 10 Meterpreter.pptx
+|     
+|─── Domain Token Stealing - Unit 11 (Module)
+|     |─── 11 Domain Token Stealing Example.mp4
+|     |─── 11 Domain Token Stealing.pptx
+|     |─── Lab 09 - Meterpereter and Persistence.docx
+|   
+```
