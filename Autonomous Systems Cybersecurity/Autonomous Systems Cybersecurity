@@ -1,0 +1,128 @@
+Overview of Autonomous Systems Cybersecurity Hierarchy Structure
+ 
+```
+Autonomous Systems Cybersecurity (Course)
+|─── NSA Cybersecurity_Syllabus.docx
+|
+|─── Module 1 (Module)
+|     |─── Lecture 1.1_Autonomous Vehicle Fundamentals.pptx
+|     |─── Lecture 1.2_Cybersecurity Fundamentals.pptx
+|     |─── Lecture 1.3_Four Domains of Concern.pptx
+|     |─── Lecture 1.4_Assign Paper and Presentation Topics.pptx
+|     |─── Lecture 1.4_Rubric_Paper.docx
+|     |─── Lecture 1.4_Rubric_Presentation.docx
+|     |─── Quiz_Lecture 1.1-Key.docx
+|     |─── Quiz_Lecture 1.1.docx
+|     |─── Quiz_Lecture 1.2-Key.docx
+|     |─── Quiz_Lecture 1.2.docx
+|     |─── Quiz_Lecture 1.3-Key.docx
+|     |─── Quiz_Lecture 1.3.docx
+|
+|─── Module 2 (Module)
+|     |─── Lecture 2.1_Types of Vehicles.pptx
+|     |─── Lecture 2.2_Article Review_Handout.pptx
+|     |─── Lecture 2.3_Case Study_Handout.pdf
+|     |─── Lecture 2.3_Case Study.pptx
+|     |─── Maritime Cyber Attacks - Vessel Automation.pdf
+|     |─── Quiz_Module 2-Key.docx
+|     |─── Quiz_Module 2.docx
+|
+|─── Module 3 (Module)
+|     |─── Lecture 3.1_Types of Maritme Digital Assets.pptx
+|     |─── Lecture 3.2_Article Review.pptx
+|     |─── Lecture 3.3_Case Study.pptx
+|     |─── Quiz_Module 3-Key.docx
+|     |─── Quiz_Module 3.docx
+|
+|─── Module 4 (Module)
+|     |─── Lecture 4.1_Maritme Law and Cybersecurity Standards.pptx
+|     |─── Lecture 4.2_Article Review.pptx
+|     |─── Lecture 4.3_Case Study.pptx
+|     |─── Quiz_Module 4-Key.docx
+|     |─── Quiz_Module 4.docx
+|
+|─── Module 5 (Module)
+|     |─── Lecture 5.1_Types of Vehicles.pptx
+|     |─── Lecture 5.2_Article Review_Handout.pdf
+|     |─── Lecture 5.2_Article Review.pptx
+|     |─── Lecture 5.3_Case Study.pptx
+|     |─── Quiz_Module 5-Key.docx
+|     |─── Quiz_Module 5.docx
+|
+|─── Module 6 (Module)
+|     |─── Lecture 6.1_Cybersecurity and Autonomous Vehicles.pptx
+|     |─── Lecture 6.2_Article Review_Handout.pdf
+|     |─── Lecture 6.2_Article Review.pptx
+|     |─── Lecture 6.3_Case Study.pptx
+|     |─── Quiz_Module 6-Key.docx
+|     |─── Quiz_Module 6.docx
+|
+|─── Module 7 (Module)
+|     |─── Lecture 7.1_Automotive Cybersecurity Standards.pptx
+|     |─── Lecture 7.2_Article Review.pptx
+|     |─── Lecture 7.3_Case Study.pptx
+|     |─── Quiz_Module 7-Key.docx
+|     |─── Quiz_Module 7.docx
+|
+|─── Module 8 (Module)
+|     |─── Lecture 8.1_Review.pptx
+|     |─── Lecture 8.2_Midterm Exam.pptx
+|     |─── Lecture 8.3_Article Review_Handout.pdf
+|     |─── Lecture 8.3_Article Review.pptx
+|
+|─── Module 9 (Module)
+|     |─── Lecture 9.1_Types of Vehicles.pptx
+|     |─── Lecture 9.2_Article Review_Handout.pdf
+|     |─── Lecture 9.2_Article Review.pptx
+|     |─── Lecture 9.3_Case Study_Handout.pdf
+|     |─── Lecture 9.3_Case Study.pptx
+|     |─── Quiz_Module 9-Key.docx
+|     |─── Quiz_Module 9.docx
+|
+|─── Module 10 (Module)
+|     |─── Lecture 10.1_Communication and Sensors.pptx
+|     |─── Lecture 10.2_Article Review_Handout.pdf
+|     |─── Lecture 10.2_Article Review.pptx
+|     |─── Lecture 10.3_Case Study.pptx
+|     |─── Quiz_Module 10-Key.docx
+|     |─── Quiz_Module 10.docx
+|
+|─── Module 11 (Module)
+|     |─── Lecture 11.1_Space Law.pptx
+|     |─── Lecture 11.2_Article Review_Handout.pdf
+|     |─── Lecture 11.2_Article Review.pptx
+|     |─── Lecture 11.3_Case Study.pptx
+|     |─── Quiz_Module 11-Key.docx
+|     |─── Quiz_Module 11.docx
+|
+|─── Module 12 (Module)
+|     |─── Lecture 12.1_Types of Vehicles.pptx
+|     |─── Lecture 12.2_Article Review_Handout.pdf
+|     |─── Lecture 12.2_Article Review.pptx
+|     |─── Lecture 12.3_Case Study.pptx
+|     |─── Quiz_Module 12-Key.docx
+|     |─── Quiz_Module 12.docx
+|
+|─── Module 13 (Module)
+|     |─── Lecture 13.1_Communication and Navigation Systems.pptx
+|     |─── Lecture 13.2_Article Review.pptx
+|     |─── Lecture 13.3_Case Study.pptx
+|     |─── Quiz_Module 13-Key.docx
+|     |─── Quiz_Module 13.docx
+|
+|─── Module 14 (Module)
+|     |─── Lecture 14.1_Digital Security Strategies.pptx
+|     |─── Lecture 14.2_Pixhawk Orange Operations.pptx
+|     |─── Lecture 14.3_Paper Due.pptx
+|     |─── Quiz_Module 14-Key.docx
+|     |─── Quiz_Module 14.docx
+|
+|─── Module 15 (Module)
+|     |─── Lecture 15.1_Presentations.pptx
+|
+|─── Module 16 (Module)
+|     |─── Lecture 16.1_Review.pptx
+|     |─── Lecture 16.2_Final Exam.pptx
+|     |─── Lecture 16.3_Course Wrap Up.pptx
+|   
+```
