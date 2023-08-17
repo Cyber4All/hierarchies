@@ -1,29 +1,29 @@
-Overview of UWF-0026 Industrial Control Systems (ICS) Threat Intelligence Hierarchy Structure
+Overview of Industrial Control Systems (ICS) Threat Intelligence (UWF-0026) Hierarchy Structure
  
 ```
-UWF-0026 Industrial Control Systems (ICS) Threat Intelligence (Course)
+Industrial Control Systems (ICS) Threat Intelligence (UWF-0026) (Course)
 |
-|─── UWF-0026 Module 1 (Module)
+|─── Introduction to Threat Intelligence and Threat Modeling (Module 1) (Module)
 |     |─── Module1_CoursesAction_Exercise.docx
 |     |─── Module1_Quiz.docx
 |     |─── Module1.pptx
 |
-|─── UWF-0026 Module 2 (Module)
+|─── Threat Intelligence Sources (Module 2) (Module)
 |     |─── Module2_ICS_ThreatIntel_a.pptx
 |     |─── Module2_Quiz.docx
 |     |─── Module2_ThreatHunting_Tactics_2023.docx
 |
-|─── UWF-0026 Module 3 (Module)
+|─── Open Source Threat Intelligence Sources (Module 3) (Module)
 |     |─── Module3 - Open Source Threat Intelligence lab Worksheet.docx
 |     |─── Module3_Open_Source_Threat_Intelligence_Tool_Usage_2023.docx
 |     |─── Module3_Open_Source_Threat_Intelligence_Tools_2023_NV.pptx
 |     |─── Module3_Quiz.docx
 |
-|─── UWF-0026 Module 4 (Module)
+|─── Threats in ICS Environment (Module 4) (Module)
 |     |─── Module4_ICS_Threats.pptx
 |     |─── Module4_Quiz.docx
 |
-|─── UWF-0026 Module 5 (Module)
+|─── ICS Threat Intelligence (Module 5) (Module)
 |     |─── Module5_ICS_ThreatShare.pptx
 |     |─── Module5_ICS_TI_TabletopExercise_2023.docx
 |     |─── Module5_Quiz.docx
