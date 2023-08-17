@@ -1,11 +1,11 @@
-Overview of UWF-0015 Industrial Control Systems (ICS) Security Hierarchy Structure
+Overview of Industrial Control Systems (ICS) Security (UWF-0015) Hierarchy Structure
  
 ```
-UWF-0015 Industrial Control Systems (ICS) Security (Course)
+Industrial Control Systems (ICS) Security (UWF-0015) (Course)
 |─── UWF-0015_Course_Meta_Data.docx
 |─── UWF-0015_ICS_Security_Syllabus.docx
 |
-|─── UWF-0015 Module 1 Models and Types of Industrial Control Systems (Module)
+|─── Models and Types of Industrial Control Systems (Module 1) (Module)
 |     |─── Module1_Lesson1.pptx
 |     |─── Module1_Lesson2.pptx
 |     |─── Module1_Lesson3.pptx
@@ -14,7 +14,7 @@ UWF-0015 Industrial Control Systems (ICS) Security (Course)
 |     |─── Module1_Lesson6.pptx
 |     |─── Module1_Quiz.docx
 |
-|─── UWF-0015 Module 2 Industrial Control Systems (ICS) Hardware (Module)
+|─── Industrial Control Systems (ICS) Hardware (Module 2) (Module)
 |     |─── Module2_Lesson1.pptx
 |     |─── Module2_Lesson2Rev2.pptx
 |     |─── Module2_Lesson3.pptx
@@ -22,13 +22,13 @@ UWF-0015 Industrial Control Systems (ICS) Security (Course)
 |     |─── Module2_Lesson5.pptx
 |     |─── Module2_Quiz.docx
 |
-|─── UWF-0015 Module 3 Industrial Control Systems (ICS) Networks and Protocols (Module)
+|─── Industrial Control Systems (ICS) Networks and Protocols (Module 3) (Module)
 |     |─── Module3_Lesson1.pptx
 |     |─── Module3_Lesson2.pptx
 |     |─── Module3_Lesson3.pptx
 |     |─── Module3_Quiz.docx
 |
-|─── UWF-0015 Module 4 Control Logic Software Development (Module)
+|─── Control Logic Software Development (Module 4) (Module)
 |     |─── Module4_LD-Programming1_2023.docx
 |     |─── Module4_LD-Programming2_2023.docx
 |     |─── Module4_Lesson1.pptx
@@ -36,7 +36,7 @@ UWF-0015 Industrial Control Systems (ICS) Security (Course)
 |     |─── Module4_Lesson3.pptx
 |     |─── Module4_Quiz.docx
 |
-|─── UWF-0015 Module 5 Human Machine Interface (HMI) Development (Module)
+|─── Human Machine Interface (HMI) Development (Module 5) (Module)
 |     |─── Module5_HMI-Programming1_2023.docx
 |     |─── Module5_HMI-Programming2_2023.docx
 |     |─── Module5_Lesson1.pptx
@@ -44,7 +44,7 @@ UWF-0015 Industrial Control Systems (ICS) Security (Course)
 |     |─── Module5_Lesson3.pptx
 |     |─── Module5_Quiz.docx
 |
-|─── UWF-0015 Module 6 Industrial Control Systems (ICS) Security (Module)
+|─── Industrial Control Systems (ICS) Security (Module 6) (Module)
 |     |─── Module6_Lesson1.pptx
 |     |─── Module6_Lesson2.pptx
 |     |─── Module6_Lesson3.pptx
@@ -53,7 +53,7 @@ UWF-0015 Industrial Control Systems (ICS) Security (Course)
 |     |─── Module6_Lesson5.pptx
 |     |─── Module6_Quiz.docx
 |
-|─── UWF-0015 Module 7 Advanced Industrial Control Systems (ICS) Security (Module)
+|─── Advanced Industrial Control Systems (ICS) Security (Module 7) (Module)
 |     |─── Module7_Lesson1.pptx
 |     |─── Module7_Lesson2.pptx
 |     |─── Module7_Quiz.docx
