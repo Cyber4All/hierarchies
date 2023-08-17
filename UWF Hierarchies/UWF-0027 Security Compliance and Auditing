@@ -1,43 +1,43 @@
-Overview of UWF-0027 Security Compliance and Auditing Hierarchy Structure
+Overview of Security Compliance and Auditing (UWF-0027) Hierarchy Structure
  
 ```
-UWF-0027 Security Compliance and Auditing (Course)
+Security Compliance and Auditing (UWF-0027) (Course)
 |─── UWF-0027_Course_Meta_Data.docx
 |─── UWF-0027_SecurityComplianceAudit_Syllabus.docx
 |
-|─── UWF-0027 Module 1 (Module)
+|─── Introduction to Security Compliance and Auditing (Module 1) (Module)
 |     |─── Module1_Quiz.docx
 |     |─── Module1.pptx
 |
-|─── UWF-0027 Module 2 (Module)
+|─── Standards and Frameworks for Security Compliance and Auditing (Module 2) (Module)
 |     |─── Module2_Quiz.docx
 |     |─── Module2.pptx
 |
-|─── UWF-0027 Module 3 (Module)
+|─── Regulations and Frameworks for Security Compliance and Auditing (Module 3) (Module)
 |     |─── Module3_Quiz.docx
 |     |─── Module3.pptx
 |
-|─── UWF-0027 Module 4 (Module)
+|─── CMMC 2 Framework of Standards (Module 4) (Module)
 |     |─── Module4_Quiz.docx
 |     |─── Module4.pptx
 |
-|─── UWF-0027 Module 5 (Module)
+|─── CMMC 2 Framework of Standards Continued (Module 5) (Module)
 |     |─── Module5_Quiz.docx
 |     |─── Module5.pptx
 |
-|─── UWF-0027 Module 6 (Module)
+|─── CMMC Auditing (Module 6) (Module)
 |     |─── Module6_CMMC_Auditing.pptx
 |     |─── Module6_Quiz.docx
 |
-|─── UWF-0027 Module 7 (Module)
+|─── NERC-CIP Standards (Module 7) (Module)
 |     |─── Module7_NERC-CIPStandards.pptx
 |     |─── Module7_Quiz.docx
 |
-|─── UWF-0027 Module 8 (Module)
+|─── NERC-CIP Standards Compliance (Module 8) (Module)
 |     |─── Module8_ Quiz.docx
 |     |─── Module8_NERC_ComplianceSummary_Audio.pptx
 |
-|─── UWF-0027 Module 9 (Module)
+|─── NERC-CIP NIST Cybersecurity Framework Mapping (Module 9) (Module)
 |     |─── Module9_ Quiz.docx
 |     |─── Module9_NERC-NIST-CSF-Mapping.pptx
 |     |─── NERC-CIP_NIST_CSF_Tabletop_Exercise.docx
